@@ -9,7 +9,7 @@ $form = array(
     'sendIpAddress' => true,
     'email' => array(
     'from' => '',
-    'to' => 'liuzhentong1998@outlook.com'
+    'to' => ''
     ),
     'fields' => array(
     'name' => array(
